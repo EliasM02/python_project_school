@@ -151,4 +151,5 @@ def kassa(kassa):
     print(f"""
     {mellanrum}
     Pengar som kvar i företaget: {kassa:>20.1f} kr 
+
     {mellanrum}""")
