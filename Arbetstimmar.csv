@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Månad;Arbetsdagar;Arbetstimmar;Lör & Sön;Övrigt
 Januari;22;176;8;1
 Februari;20;160;8;0
@@ -12,3 +13,19 @@ Oktober;23;184;8;0
 November;20;160;10;0
 December;21;168;8;2
 Total årsarbetstid;251;2008;104;12
+=======
+Månad;Arbetsdagar;Arbetstimmar;Lör & Sön;Övrigt
+Januari;22;176;8;1
+Februari;20;160;8;0
+Mars;21;168;10;0
+April;20;160;8;2
+Maj;20;160;9;2
+Juni;18;144;9;3
+Juli;23;184;8;0
+Augusti;21;168;10;0
+September;22;176;8;0
+Oktober;23;184;8;0
+November;20;160;10;0
+December;21;168;8;2
+Total årsarbetstid;251;2008;104;12
+>>>>>>> 856117bee62c86b50d87c7efd7d0ff019743438a
