@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
 This file is based on an initial version written by another student.
 The code has been modified, extended and integrated into the main program.
@@ -156,7 +155,7 @@ def kassa(kassa):
     {mellanrum}
     Pengar som kvar i företaget: {kassa:>20.1f} kr 
     {mellanrum}""")
-=======
+
 # Startar programmet
 
 # Företagsnamn
@@ -312,4 +311,4 @@ def kassa(kassa):
     Pengar som kvar i företaget: {kassa:>20.1f} kr 
 
     {mellanrum}""")
->>>>>>> 856117bee62c86b50d87c7efd7d0ff019743438a
+
